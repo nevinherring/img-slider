@@ -35,7 +35,7 @@ body {
     transform: translate(-50%, -50%);
 }
 
-.prevBtn{
+.nextBtn{
     position: absolute;
     top: 50%;
     right: 0;
